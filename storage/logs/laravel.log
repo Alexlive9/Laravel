@@ -1,0 +1,20 @@
+[2024-11-29 19:52:49] local.ERROR: Class 'Controller' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'Controller' not found at C:\\xampp\\htdocs\\myprojectLaravel\\app\\Http\\Controllers\\Auth\\RegisterController.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-29 20:21:11] local.ERROR: Class 'Controller' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'Controller' not found at C:\\xampp\\htdocs\\myprojectLaravel\\app\\Http\\Controllers\\Auth\\RegisterController.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-29 20:38:30] local.ERROR: Class 'Controller' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'Controller' not found at C:\\xampp\\htdocs\\myprojectLaravel\\app\\Http\\Controllers\\Auth\\RegisterController.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-29 20:46:26] local.ERROR: Class 'Controller' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'Controller' not found at C:\\xampp\\htdocs\\myprojectLaravel\\app\\Http\\Controllers\\Auth\\RegisterController.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-29 20:46:39] local.ERROR: Class 'Controller' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'Controller' not found at C:\\xampp\\htdocs\\myprojectLaravel\\app\\Http\\Controllers\\Auth\\RegisterController.php:8)
+[stacktrace]
+#0 {main}
+"} 
